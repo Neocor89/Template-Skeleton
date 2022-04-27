@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "logoImage": "https://th.bing.com/th/id/OIP.Ge4h7jZIUajf_o22TW1t9wHaHa?pid=ImgDet&rs=1",
+    "title": "Lorem ipsum dolor sit amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80"
+  },
+  {
+    "id": 2,
+    "logoImage": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Lanz_HL_Logo.svg/480px-Lanz_HL_Logo.svg.png",
+    "title": "Lorem ipsum dolor sit amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 3,
+    "logoImage": "https://upload.wikimedia.org/wikipedia/fa/thumb/4/4c/Union_76_Logo.svg/241px-Union_76_Logo.svg.png",
+    "title": "Lorem ipsum dolor sit amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 4,
+    "logoImage": "https://gamepedia.cursecdn.com/terratech_gamepedia/thumb/2/2c/Big_TTMM_Logo.png/200px-Big_TTMM_Logo.png?version=5296eb53d1c516409a50ba145ef7435e",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 5,
+    "logoImage": "https://th.bing.com/th/id/R.65e440d5e47ca7777d3504b987359714?rik=JYTIYFAS3jlTaA&riu=http%3a%2f%2f3.bp.blogspot.com%2f_TZ60-72xZZk%2fTTB4Lfhx8wI%2fAAAAAAAADyk%2f9pd4iEGeamU%2fw1200-h630-p-k-no-nu%2fCBC_logo_Gene_Simmons.png&ehk=pbVXNSptHvC8Lb4sXxrMMeRNg8tWQpXhTfi%2f4J1efME%3d&risl=&pid=ImgRaw&r=0",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "id": 6,
+    "logoImage": "https://3.bp.blogspot.com/-DQ6B5L2IDMg/TcOVE3Nu6rI/AAAAAAAAHaw/6EucmNT7uz4/s400/youtookmyname.jpg",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+  },
+  {
+    "id": 7,
+    "logoImage": "https://eachforall.coop/wp-content/uploads/2017/03/realize-logo-1-300x300.png",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 8,
+    "logoImage": "https://elblogdemanu.com/wordpress/wp-content/uploads/2007/06/code-masters-old-logo.jpg",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 9,
+    "logoImage": "https://th.bing.com/th/id/OIP.wNMgkJYaZSVR4NLnCpz9dwAAAA?pid=ImgDet&rs=1",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
+  },
+  {
+    "id": 10,
+    "logoImage": "https://avatars.githubusercontent.com/u/42719136?v=4&s=160",
+    "title": "Lorem ipsum dolor sit, amet.",
+    "details": "Lorem ipsum dolor sit amet.",
+    "coverImage": "https://images.unsplash.com/photo-1457364887197-9150188c107b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
